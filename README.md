@@ -65,3 +65,6 @@ Here are some ideas to get you started:
 
 <!-- Animated Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:a777e3,100:6e8efb&height=120&section=footer)
+
+
+<img src="./assets/contact-card.svg" width="550" alt="Manoranjan contact card" />
